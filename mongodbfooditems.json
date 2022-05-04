@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Country Feast",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 129,
+        "medium": 199,
+        "large": 249
+      }
+    ],
+    "category":"veg",
+    "image":"https://cdn4.singleinterface.com/files/banner_images/1093/2204_1602668149_CountryFeastmin.jpg",
+    "description":"Onion, Corn, Tomato, Mushroom & Capsicum"
+  },
+  {
+    "name": "Tandoori Paneer",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 149,
+        "medium": 199,
+        "large": 249
+      }
+    ],
+    "category": "veg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/7613_1602656948_TandooriPaneermin.jpg",
+    "description": "Paneer, Capsicum, Onion, Tomato & Red paprika"
+  },
+  {
+    "name": "Chicken Italiano",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 249,
+        "medium": 319,
+        "large": 399
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/1214_1602656795_Chickenitalianomin.jpg",
+    "description":
+      "Chicken Sausage, Chicken Pepperoni, Mushroom, Capsicum & Black Olive"
+  },
+  {
+    "name": "Chicken Exotica",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 249,
+        "medium": 299,
+        "large": 349
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/9199_1602668245_Chickenexoticamin.jpg",
+    "description":
+      "Chicken Pepperoni, Smoked chicken, Green & yellow zucchini & Jalapeno"
+  },
+  {
+    "name": "Margherita",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 99,
+        "medium": 149,
+        "large": 199
+      }
+    ],
+    "category": "veg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/2299_1602656883_Margheritamin.jpg",
+    "description": "Classic cheese"
+  },
+  {
+    "name": "Classic Tomato",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 129,
+        "medium": 179,
+        "large": 219
+      }
+    ],
+    "category": "veg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/2537_1602658262_Classictomatomin.jpg",
+    "description": "Cheese & Tomato"
+  },
+  {
+    "name": "Veggie Feast",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 199,
+        "medium": 259,
+        "large": 319
+      }
+    ],
+    "category": "veg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/5242_1602656979_VeggieFeastmin.jpg",
+    "description": "Onion, Capsicum, Corn"
+  },
+  {
+    "name": "Spiced Chicken Meatballs",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 199,
+        "medium": 249,
+        "large": 319
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://cdn4.singleinterface.com/files/banner_images/1093/3693_1602656925_Spicedchickenmeatballmin.jpg",
+    "description": "Meatball, Onion & Capsicum"
+  }
+]

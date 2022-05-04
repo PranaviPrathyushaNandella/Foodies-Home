@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montagu Slab',serif !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link{
+  color: black !important;
+}
+
+h1{
+  font-size: 20px !important;
+}
+
+.navbar-brand{
+  color: black !important;
+}
+
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
+
+.flex-container{
+  display: flex !important;
+}
+
+.Button{
+  background-color: red !important;
+  color: white !important;
+}
+
+.fa-plus{
+  color : green;
+  margin: 5px;
+}
+
+.fa-minus{ 
+  color : red;
+  margin: 5px;
+}
+
+.fa-trash{
+  color:red;
+}
+
+input{
+  margin-top: 10px !important;
+  box-shadow: none !important;
+}
+
+.adminfunctions{
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+.adminfunctions li{
+  list-style-type: none !important;
+  display: inline !important;
+  color: brown !important;
+}
+
+.adminfunctions li a{
+  color: brown !important;
+  padding: 20px;
+}
+
+td , th , tr{
+  text-align: left;
+}
+
+.pic{
+  height: 15%;
+  width: 50%;
+}

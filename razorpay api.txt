@@ -1,0 +1,11 @@
+rzp_test_3JfpLo2PYMnxwG  id
+
+qW644qaUUfTN7QsP7JbyKDt7  key secret
+
+
+stripe
+
+pk_test_51KtcvTSHFrONo2xnjQyJw6IEeKfHLYxm05Z9Qf2rR1fwRJqhWD51q1wm5zlBUw6VyVaH8rtmoXxTWTNrQMUsqnQn00DNMVgRZM   id
+
+
+sk_test_51KtcvTSHFrONo2xnKYz8Abl0XvsTwn4Z608ie3queWu7MTtIstGGQYQ0GwFHBTK5yki4bpYGfmC240n61Xgjj3Bu00UXajnr5C     secret

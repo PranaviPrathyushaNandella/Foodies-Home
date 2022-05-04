@@ -1,0 +1,38 @@
+{
+  "name": "foodieshome",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.16",
+    "razorpay": "^2.8.1",
+    "router": "^1.3.6",
+    "stripe": "^8.219.0",
+    "uuid": "^8.3.2",
+    "webpack": "^4.19.1",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranaviPrathyushaNandella/Foodies-Home.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PranaviPrathyushaNandella/Foodies-Home/issues"
+  },
+  "homepage": "https://github.com/PranaviPrathyushaNandella/Foodies-Home#readme",
+  "description": ""
+}
